@@ -1,5 +1,5 @@
 # Hi, I’m Anas Pathan 👋
-**AI & ML Developer | Python | Android | Data Science | Diploma AIML | B.Tech AI & DS**
+**AI & ML Developer | Python | Data Science | Diploma AIML | B.Tech AI & DS**
 
 ---
 
@@ -11,15 +11,13 @@
 
 ## 💻 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F0DB4F?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data_Science-FF6F61?style=for-the-badge)
 
-- **Programming Languages:** Python, Java   
+- **Programming Languages:** Python, Java  
 - **Machine Learning:** Regression, Classification, Supervised & Unsupervised Learning  
 - **Deep Learning:** Neural Networks, CNN, RNN, LSTM  
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn  
-- **NLP & Prompt Engineering**  
 - **Tools & Platforms:** Git, GitHub, Colab, Jupyter Notebook  
 
 ---
@@ -27,8 +25,19 @@
 ## 🎓 Education & Certifications
 - **Diploma in AI & ML** – Completed  
 - **B.Tech in AI & DS** – Ongoing  
-- **Python for Data Science and AI** – IBM, Coursera ![Python for DS](https://img.shields.io/badge/IBM-Python_for_DS-blue)  
-- **Introduction to AI** – IBM, Coursera ![Introduction to AI](https://img.shields.io/badge/IBM-Intro_to_AI-blue)  
+- **Python for Data Science and AI** – IBM, Coursera  
+[![Python for Data Science and AI](https://images.credly.com/size/340x340/images/1f1db3fd-2a08-4a01-8025-fd249c80a83f/image.png)](https://www.credly.com/earner/earned/badge/1f1db3fd-2a08-4a01-8025-fd249c80a83f)  
+- **Artificial Intelligence Essentials V2** – IBM, Coursera  
+[![Artificial Intelligence Essentials V2](https://images.credly.com/size/340x340/images/af400a31-9e34-4414-87fc-ae5067b46c08/image.png)](https://www.credly.com/earner/earned/badge/af400a31-9e34-4414-87fc-ae5067b46c08)  
+
+---
+
+## 💡 Verified Skills
+- Python  
+- Artificial Intelligence (AI)  
+- Generative AI  
+- Bokeh  
+- Matplotlib  
 
 ---
 
@@ -44,7 +53,7 @@ Predict obesity levels using logistic regression (OvR & OvO).
 **Tech:** Python, scikit-learn, Pandas, Jupyter Notebook  
 **Repo:** [Obesity Prediction ML](https://github.com/pathananas2007/obesity-prediction-ml)  
 
-### 3️⃣ [Next Project]
+### 3️⃣ [Your Next Project]
 - Short description of project  
 - **Tech:** Add tech stack  
 - **Repo:** [Project Link](#)  
@@ -62,8 +71,6 @@ Predict obesity levels using logistic regression (OvR & OvO).
 - Pursuing B.Tech in AI & DS  
 - Completed Python for Data Science & AI and Introduction to AI from IBM Coursera  
 - Published ML/AI models on GitHub  
-- Selected as **Internshala Student Partner (ISP) 2025**  
-
 ---
 
 ## ⚡ Fun Fact
