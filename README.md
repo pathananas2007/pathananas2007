@@ -28,12 +28,5 @@ Python | Machine Learning | Data Science | Neural Networks | Pandas | NumPy | Ma
 - **[Obesity Prediction ML](https://github.com/pathananas2007/obesity-prediction-ml)** – Logistic Regression  
 
 ---
-
-## 📈 GitHub Stats
-![Anas' GitHub stats](https://github-readme-stats.vercel.app/api?username=pathananas2007&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pathananas2007&layout=compact&theme=radical)
-
----
-
 ## ⚡ Fun Fact
 Passionate about solving real-world problems with AI & Data Science and always exploring new technologies!
